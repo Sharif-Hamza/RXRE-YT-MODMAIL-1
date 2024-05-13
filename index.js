@@ -50,3 +50,4 @@ charModMail.ModMail(client, {
   rightEmoji: "✅" // if you want you can change but don't change it recommaned.
 })
 });
+
