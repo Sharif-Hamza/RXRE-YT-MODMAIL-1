@@ -40,7 +40,7 @@ charModMail.ModMail(client, {
   categoryID: "1188878225590460508", //put your category id here
   staffRole: "282861012648984576", //put your staff role id here
   embedColor: "#2f3136", //change the hax color code if you want
-  anonymousReply: false //make it false if only the staff can reply the user or make it true so anyone can reply.
+  anonymousReply: false/true //make it false if only the staff can reply the user or make it true so anyone can reply.
   closedTitle: "Your Mod Mail Has Been Closed",
   closedMessage: "A Staff Member Has Deleted You Mod Mail!",
   staffOpenedTitle: "User Opened Mod Mail",
