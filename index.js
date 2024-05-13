@@ -8,7 +8,7 @@ Thanks for using our coded bot.
 const Discord = require('discord.js');
 const allIntents = new Discord.Intents(32767);
 const client = new Discord.Client({
-const keep_alive = require('./keep_alive.js')
+
   messageCacheLifetime: 60,
   fetchAllMembers: false,
   messageCacheMaxSize: 10,
