@@ -41,12 +41,12 @@ charModMail.ModMail(client, {
   staffRole: "1188898864208556093", //put your staff role id here
   embedColor: "#2f3136", //change the hax color code if you want
   anonymousReply: false, //make it false if only the staff can reply the user or make it true so anyone can reply.
-  closedTitle: "Your Mod Mail Has Been Closed",
-  closedMessage: "A Staff Member Has Deleted You Mod Mail!",
-  staffOpenedTitle: "User Opened Mod Mail",
-  staffOpenedMessage: "The User Opened A Mod Mail And Is Now Wait For A Reply!",
+  closedTitle: "Your Support Ticket Has Been Closed",
+  closedMessage: "A Staff Member Has Deleted You Support Ticket!",
+  staffOpenedTitle: "User Opened Support Ticket",
+  staffOpenedMessage: "The User Opened A Support Ticket And Is Now Wait For A Reply!",
   userOpenedTitle: "Ticket Created",
-  userOpenedMessage: "You Have Reached Air France Support Team, A Member Will Contact You Soon",
+  userOpenedMessage: "You Have Reached Lufthansa Support Team, A Member Will Contact You Soon",
   wrongEmoji: "❎", // if you want you can change but don't change it recommaned.
   rightEmoji: "✅" // if you want you can change but don't change it recommaned.
 })
